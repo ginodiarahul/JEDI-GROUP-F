@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-ankur
-Rahul
-=======
-kanika
->>>>>>> 27fbe65 (kanika name added)
+kanika second time
